@@ -27,12 +27,12 @@ export async function generateMetadata({ params }: ArticlePageProps) {
 
   if (!article) {
     return {
-      title: "文章 | 直一"
+      title: "文章"
     };
   }
 
   return {
-    title: `${article.title} | 直一`,
+    title: article.title,
     description: article.summary
   };
 }

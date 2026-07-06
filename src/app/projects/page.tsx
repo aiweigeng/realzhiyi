@@ -4,7 +4,7 @@ import { Body, H1, Label } from "@/components/ui/typography";
 import { projects } from "@/lib/content";
 
 export const metadata = {
-  title: "作品 | 直一"
+  title: "作品"
 };
 
 export default function ProjectsPage() {

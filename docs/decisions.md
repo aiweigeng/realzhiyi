@@ -115,3 +115,24 @@ Implications:
 Assumptions:
 
 - 当前作品数量较少，简洁列表比网格卡片更适合阅读和维护。
+
+## 2026-07-06: 站点公开身份使用 Aiwei / Real · 直一
+
+Decision:
+
+网站浏览器标题使用 `Real · 直一`，导航左侧标识使用 `Aiwei`，关于页主标题使用“我是Aiwei”，并保留“你也可以叫我直一。”作为称呼说明。
+
+Reason:
+
+用户希望公开主页更明确地呈现 Aiwei 这个身份，同时保留“直一”作为个人称呼和站点气质的一部分。
+
+Implications:
+
+- 全站默认 metadata title 为 `Real · 直一`。
+- 子页面标题沿用 `页面名 | Real · 直一` 的结构。
+- favicon 使用“一”字作为轻量识别符号。
+- 关于页提供 `aiweigeng@gmail.com` 作为公开邮箱联系入口。
+
+Assumptions:
+
+- 这是公开身份和基础品牌表达的调整，不需要引入 logo 系统、品牌规范或额外设计资产。

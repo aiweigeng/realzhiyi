@@ -10,7 +10,7 @@ const config: Config = {
     extend: {
       colors: {
         paper: "#ffffff",
-        canvas: "#f7f5ee",
+        canvas: "#f8f9fe",
         ink: "#20201d",
         muted: "#666a60",
         line: "#e4e4de",

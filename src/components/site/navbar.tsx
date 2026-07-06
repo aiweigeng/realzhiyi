@@ -14,7 +14,7 @@ export function Navbar() {
     <header className="bg-canvas/95">
       <Container className="flex min-h-20 items-center justify-between gap-6">
         <Link className="text-base font-semibold text-ink" href="/" aria-label="回到首页">
-          直一
+          Aiwei
         </Link>
         <nav aria-label="主导航" className="flex flex-wrap justify-end gap-x-6 gap-y-2 text-sm text-muted">
           {navigation.map((item) => (

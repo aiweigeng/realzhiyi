@@ -6,7 +6,7 @@ import { Body, H1, Label } from "@/components/ui/typography";
 import { articles } from "@/lib/content";
 
 export const metadata = {
-  title: "文章 | 直一"
+  title: "文章"
 };
 
 export default function ArticlesPage() {
